@@ -1,3 +1,4 @@
+
 <h1 align="center">Sistema de check-out de hotel</h1>
 <h4 align="center">
 
@@ -19,6 +20,14 @@ Com base nessas informações, o sistema calculará o valor total a ser pago pel
 
 - Pagamento à vista com 10% de desconto;
 - Pagamento em 3 vezes com acréscimo de 10%, exibindo o valor de cada parcela.</p>
+
+## Projeto
+
+<h1 align="center">
+  
+![ezgif com-gif-maker](https://github.com/mamkot/ProjetoHotelCheckOut/assets/102431539/c1e5bc4a-1483-4fed-ab71-8a103ac348f9)
+
+</h1>
 
 ### Ferramentas
 
