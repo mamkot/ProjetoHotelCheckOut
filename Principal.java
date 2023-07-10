@@ -20,11 +20,11 @@ public class Principal{
        acrescimo=tot+tot/10;
        parc=acrescimo/3;
 
-       mens="Total de gastos: "+tot
+       mens="Total de gastos: R$"+tot
          +"\nFormas de pagamento:"
-         +"\nÀ vista (10% de desconto): "+desc  
-         +"\nParcelado em até 3x (10% de acréscimo): "+acrescimo
-         +"\nValor das parcelas: "+df.format(parc);
+         +"\nÀ vista (10% de desconto): R$"+desc  
+         +"\nParcelado em até 3x (10% de acréscimo): R$"+acrescimo
+         +"\nValor das parcelas: R$"+df.format(parc);
       JOptionPane.showMessageDialog(null, mens);    
     }
 }
