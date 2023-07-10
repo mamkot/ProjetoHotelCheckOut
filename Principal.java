@@ -23,7 +23,7 @@ public class Principal{
        mens="Total de gastos: R$"+tot
          +"\nFormas de pagamento:"
          +"\nÀ vista (10% de desconto): R$"+desc  
-         +"\nParcelado em até 3x (10% de acréscimo): R$"+acrescimo
+         +"\nParcelamento em até 3x (+10%): R$"+acrescimo
          +"\nValor das parcelas: R$"+df.format(parc);
       JOptionPane.showMessageDialog(null, mens);    
     }
